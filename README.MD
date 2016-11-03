@@ -3,7 +3,7 @@
 1. Jura, Google Font, Daniel Johnson
 2. Audiowide, Google Font, Astigmatic
 3. Orbitron, Google Font, Matt McInerney
-4. Bungee hairline, Google Font, David Jonathan Ross
+4. Bungee, Google Font, David Jonathan Ross
 5. Sarpanch, Google Font, Indian Type Foundry
 6. Eunomia, Font Library, Sora Sagano
 7. Ocra, Fontain, John Sauter
