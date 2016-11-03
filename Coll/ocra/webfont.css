@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ocra';
+    src: url('ocr-a.eot');
+    src: url('ocr-a.eot?#iefix') format('embedded-opentype'),
+         url('ocr-a.woff') format('woff'),
+         url('ocr-a.ttf') format('truetype'),
+         url('ocr-a.svg#ocra') format('svg');
+}
+

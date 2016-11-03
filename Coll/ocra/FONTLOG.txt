@@ -1,0 +1,62 @@
+
+  FONTLOG: OCRA
+
+  --------------------------------------------
+  OCRA
+  --------------------------------------------
+
+  This file provides detailed information on the OCR-A font 
+  Software.
+  This information should be distributed along with the OCR-A 
+  font and any derivative works.
+  
+  OCR-A Font Information
+  
+  The OCR-A font was developed by the American National 
+  Standards Institute (ANSI) to be readable by the computers 
+  of the 1960s. The OCR-A font is still used commercially in 
+  payment advice forms so that a lockbox company can 
+  determine the account number and amount owed on a bill when 
+  processing a payment.
+  
+  
+  Changelog
+  
+  16 Sep 2014 (Christoph Haag)
+- fixed the name of lower case z (once again)
+  
+  15 Sep 2014 (Christoph Haag) 
+- created fontforge sources as base to work on GNU/Linux
+- added FONTLOG to .sfdir
+- Mastered Font from Fontforge SFDIR to 
+  UFO,OTF,TTF,EOT,WOFF,SVG
+  
+  3 Sep 2014 (Benjamin Stephan)
+- Changed encoding to ISO 10646-1 (Unicode, Full)
+- Added accented glyphs for a,e
+  
+  4 Feb 2010 (John Sauter)
+- Initial Release
+  
+  Acknowledgements
+  
+  If you make modifications be sure to add your name (N), 
+  email (E), web-address (if you have one) (W) and 
+  description (D). This list is in alphabetical order.
+  
+  N: Christoph Haag
+  E: christoph@lafkon.net
+  W: www.lafkon.net
+  D: Transformer
+  
+  N: John Sauter
+  E: John_Sauter@systemeyescomputerstore.com
+  W: www.systemeyescomputerstore.com
+  D: Designer
+  
+  N: Benjamin Stephan
+  E: benson@lafkon.net
+  W: www.lafkon.net
+  D: Designer
+
+
